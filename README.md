@@ -1,5 +1,8 @@
 # Wildlife Classification & Detection Using AI/ML
 
+https://github.com/user-attachments/assets/cb5455b9-af52-4932-b102-179bcfe6b704
+
+
   This project aims to use articial intelligence and machine learning for wildlife
   species classication and detection using image recognition and deep learning
   models
@@ -10,6 +13,14 @@
 
 
 ![CNN](https://miro.medium.com/max/2510/1*vkQ0hXDaQv57sALXAJquxA.jpeg)
+
+### Demo
+
+
+![animal-0](https://github.com/user-attachments/assets/1598a90b-418c-4081-aec7-23efe7d0c9d2)
+![animal-1](https://github.com/user-attachments/assets/5792818f-4091-48fb-b74a-a9ffa66c9b19)
+![animal-2](https://github.com/user-attachments/assets/3af4f362-e30a-4585-85ed-e24b6ee660c0)
+
 
 
 ### Libraries
@@ -37,4 +48,4 @@
 
 ### License
 
-  -MIT License
+  - MIT License
